@@ -10,6 +10,8 @@
 
 ![GitHub Mark](http://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png "GitHub Mark")
 
+![avatar](http://baidu.com/pic/doge.png)
+
 ```c++
 #include <iostream>
 using nanespace std
