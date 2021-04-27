@@ -6,7 +6,7 @@
 
 [google](http://www.google.com/)
 
-![avatar1](/bailu/LittlePenguin.jpg)
+![avatar1](LittlePenguin.jpg)
 
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
 
